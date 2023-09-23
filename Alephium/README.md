@@ -34,11 +34,8 @@ This folder contains overclocking settings optimized for mining Alepium coin on 
 
 ## Usage
 
-1. **Select the Alepium Template in HiveOS**
 
-    Navigate to the overclocking section in HiveOS and select the Alepium template you imported.
-
-2. **Apply the Template**
+1. **Apply the Template**
 
     Click on 'Apply' to set the overclocking settings to your GPUs.
 
