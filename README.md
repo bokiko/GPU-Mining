@@ -1,10 +1,10 @@
 
 
-# GPU-Mining: Overclocking Templates for Cryptocurrency Mining
+# GPU-Mining: Overclocking Templates for Cryptocurrency Mining using HiveOs
 
 ## Description
 
-Welcome to the GPU-Mining repository! This repository serves as a comprehensive guide for GPU overclocking settings optimized for various cryptocurrencies. Each coin has its own folder containing a README and images that detail the recommended settings for different GPU models.
+Welcome to the GPU-Mining repository! This repository serves as a comprehensive guide for GPU overclocking settings in HiveOs optimized for various cryptocurrencies. Each coin has its own folder containing a README and images that detail the recommended settings for different GPU models.
 
 ## Table of Contents
 
