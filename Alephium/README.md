@@ -49,7 +49,7 @@ The overclocking settings are provided as images and text for each supported GPU
 ### Nvidia
 - [1660ti](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/1660ti_ALPH.png) : Core: 1470 , MEM: -3000 , PL: 100  
 - [1660 Super](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/1660s.png) : Extra config arguments: --coff 90 --cclk 1470 --mclk 810
-- [3060 Ti](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3060ti%20alph.png) : :--coff 300 --cclk 1500 --mclk 810 --pl 150
+- [3060 Ti](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3060ti%20alph.png) : Extra config arguments : --coff 300 --cclk 1500 --mclk 810 --pl 150
 - [3070](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3070%20alph.png) : Extra config arguments: --coff 300 --cclk 1455 --mclk 810 --pl 150
 - [3080](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3080%20alph.png) : Extra config arguments: --coff 250 --cclk 1470 --mclk 810 --pl 250
 - [3090](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3090%20alph.png) : Extra config arguments: --coff 300 --cclk 1440 --mclk 810 --pl 350
