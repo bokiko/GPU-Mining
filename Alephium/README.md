@@ -28,9 +28,9 @@ This folder contains overclocking settings optimized for mining Alepium coin on 
     cd GPU-Mining/Alepium
     ```
 
-3. **Import the Template into HiveOS**
+3. **Copy the OC into HiveOS**
 
-    Follow the instructions on HiveOS to import the overclocking template.
+    Follow the instructions on HiveOS to Copy the overclocking numbers.
 
 ## Usage
 
