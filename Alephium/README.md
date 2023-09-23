@@ -42,17 +42,17 @@ This folder contains overclocking settings optimized for mining Alepium coin on 
 ## Supported GPUs
 
 ### Nvidia
-- [1660ti](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/1660ti_ALPH.png))
-- 1660 Super
-- 3060 Ti
-- 3070
-- 3080
-- 3090
+- [1660ti](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/1660ti_ALPH.png)
+- [1660 Super](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/1660s.png)
+- [3060 Ti](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3060ti%20alph.png)
+- [3070](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3070%20alph.png)
+- [3080](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3080%20alph.png)
+- [3090](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/3090%20alph.png)
 - 3070 Ti
 
 ### AMD
-- 5700
-- 5700XT
+- [5700](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/5700%20alph.png)
+- [5700XT](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/5700xt%20alph.png)
 
 ## Settings Images
 
