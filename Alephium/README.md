@@ -35,9 +35,13 @@ This folder contains overclocking settings optimized for mining Alepium coin on 
 ## Usage
 
 
-1. **Apply the Template**
+The overclocking settings are provided as images for each supported GPU. Simply view the image corresponding to your GPU model to see the recommended settings.
 
-    Click on 'Apply' to set the overclocking settings to your GPUs.
+1. **Apply the Overcloacks**
+
+    Click on 'save' in HiveOs settings to set the overclocs to your GPUs.
+   
+  
 
 ## Supported GPUs
 
@@ -54,9 +58,7 @@ This folder contains overclocking settings optimized for mining Alepium coin on 
 - [5700](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/5700%20alph.png)
 - [5700XT](https://github.com/bokiko/GPU-Mining/blob/main/Alephium/5700xt%20alph.png)
 
-## Settings Images
 
-The overclocking settings are provided as images for each supported GPU. Simply view the image corresponding to your GPU model to see the recommended settings.
 
 ## Disclaimer
 
