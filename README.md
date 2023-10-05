@@ -45,7 +45,7 @@ Welcome to the GPU-Mining repository! This repository serves as a comprehensive 
 
 ## Supported Coins
 
-- [Alepium](/Alepium)
+- [Alepium]([/Alepium](https://github.com/bokiko/GPU-Mining/tree/main/Alephium))
 - [More to come...]
 
 ## Contributing
