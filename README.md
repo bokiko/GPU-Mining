@@ -1,62 +1,134 @@
+<div align="center">
 
+# GPU Mining
 
-# GPU-Mining: Overclocking Templates for Cryptocurrency Mining using HiveOs
+<h3>Overclocking templates for cryptocurrency mining using HiveOS.</h3>
 
-## Description
+<p>
+  <img src="https://img.shields.io/badge/Platform-HiveOS-yellow?style=for-the-badge" alt="HiveOS" />
+  <img src="https://img.shields.io/badge/GPU-NVIDIA%20%7C%20AMD-green?style=for-the-badge" alt="GPU" />
+  <img src="https://img.shields.io/badge/Type-Templates-blue?style=for-the-badge" alt="Templates" />
+</p>
 
-Welcome to the GPU-Mining repository! This repository serves as a comprehensive guide for GPU overclocking settings in HiveOs optimized for various cryptocurrencies. Each coin has its own folder containing a README and images that detail the recommended settings for different GPU models.
+<p>
+  <img src="https://img.shields.io/badge/Optimized-Yes-success" alt="Optimized" />
+  <img src="https://img.shields.io/badge/Type-Reference-blue" alt="Reference" />
+</p>
 
-## Table of Contents
+</div>
 
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Supported Coins](#supported-coins)
-5. [Contributing](#contributing)
-6. [Disclaimer](#disclaimer)
-7. [Project Link](#project-link)
+---
+
+## What is This?
+
+A comprehensive collection of **GPU overclocking settings** optimized for various cryptocurrencies on HiveOS. Each coin has its own folder with recommended settings for different GPU models.
+
+---
+
+## Who is This For?
+
+| User Type | Use Case |
+|-----------|----------|
+| **GPU Miners** | Optimize hashrate and efficiency |
+| **HiveOS Users** | Ready-to-use overclock profiles |
+| **Beginners** | Learn safe overclocking settings |
+| **Multi-Coin Miners** | Quick settings for coin switching |
+
+---
 
 ## Features
 
-- Overclocking settings for multiple cryptocurrencies.
-- Easy-to-follow README files for each coin.
-- Settings provided as images for quick reference.
-- Support for various Nvidia and AMD GPUs.
+- ⚡ Overclocking settings for multiple cryptocurrencies
+- 📖 Easy-to-follow README files for each coin
+- 🖼️ Settings provided as images for quick reference
+- 🎮 Support for various NVIDIA and AMD GPUs
 
-## Installation
-
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/bokiko/GPU-Mining.git
-    ```
-
-2. **Navigate to the Repository Folder**
-    ```bash
-    cd GPU-Mining
-    ```
-
-## Usage
-
-1. **Navigate to the Coin Folder**: Choose the folder corresponding to the cryptocurrency you're interested in.
-
-2. **View the README**: Each folder contains a README file with instructions on how to apply the overclocking settings in HiveOS.
-
-3. **View the Images**: The README will guide you to images that show the recommended settings for each supported GPU model.
+---
 
 ## Supported Coins
 
-- [Alepium](Alephium)
-- [More to come...]
+| Coin | Status |
+|------|--------|
+| [Alephium](Alephium) | ✅ Available |
+| More coins... | 🔜 Coming soon |
+
+---
+
+# Technical Documentation
+
+<details>
+<summary><b>📥 Installation</b></summary>
+
+### Clone the Repository
+```bash
+git clone https://github.com/bokiko/GPU-Mining.git
+cd GPU-Mining
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ Usage</b></summary>
+
+### Step 1: Navigate to Coin Folder
+Choose the folder for your target cryptocurrency.
+
+### Step 2: View the README
+Each folder contains instructions for applying settings in HiveOS.
+
+### Step 3: Apply Settings
+Follow the images showing recommended settings for your GPU model.
+
+</details>
+
+<details>
+<summary><b>🔧 HiveOS Setup Tips</b></summary>
+
+### Accessing Overclocks
+1. Log into HiveOS web interface
+2. Select your worker
+3. Go to "Overclocking" tab
+4. Apply settings from this guide
+
+### Best Practices
+- Start with conservative settings
+- Monitor temperatures
+- Increase gradually
+- Test stability before leaving unattended
+
+</details>
+
+---
+
+## Quick Links
+
+| Resource | Link |
+|----------|------|
+| HiveOS | [hiveos.farm](https://hiveos.farm) |
+| Mining Pools | [miningpoolstats.stream](https://miningpoolstats.stream) |
+
+---
 
 ## Contributing
 
-If you have suggestions or optimizations for any cryptocurrency mining, feel free to open an issue or create a pull request.
+Have optimized settings for other coins or GPUs? Contributions welcome!
+
+1. Fork this repository
+2. Add your settings with screenshots
+3. Submit a pull request
+
+---
 
 ## Disclaimer
 
-Use these settings at your own risk. The author is not responsible for any damage that may occur to your hardware.
+> ⚠️ **Use these settings at your own risk.** The author is not responsible for any damage that may occur to your hardware. Always monitor temperatures and start with conservative settings.
 
-## Project Link
+---
 
-- GitHub Repository: [https://github.com/bokiko/GPU-Mining](https://github.com/bokiko/GPU-Mining)
+<div align="center">
 
+Built by [@bokiko](https://github.com/bokiko)
+
+*Optimize your mining rigs*
+
+</div>
